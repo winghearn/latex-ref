@@ -1,4 +1,4 @@
-# my-tex-ref
+# latex-ref
 My LaTeX learning notes
 
 ## Why LaTeX?
