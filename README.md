@@ -13,7 +13,7 @@ My LaTeX learning notes
 - Linux: Install `tex-live`
 - MacOS: Install `MacTeX` distribution
 - Windows: Install `MiKTeX`, `proTeXt` or other distributions
-- Or play with online editors, like ![Overleaf](https://www.overleaf.com/)
+- Or play with online editors, like [Overleaf](https://www.overleaf.com/)
 
 ## About 
 This repository provides short pieces of code as well as examples
